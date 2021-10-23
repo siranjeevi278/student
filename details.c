@@ -1,0 +1,23 @@
+#include<stdio.h>
+char name[30],rollno[23],fathername[45],mothername[34],email[56],address[78];
+int age,mobileno,bloodgroup,aadherno;
+printf("enter name");
+scanf("%s",name);
+printf("enter rollno");
+scanf("%s",rollno);
+printf("enter father name");
+scanf("%s",fathername);
+printf("enter mother name");
+scanf("%s",mothername);
+printf("enter email");
+scanf("%s",email);
+printf("enter adddress");
+scanf("%s",address);
+printf("enter age");
+scanf("%d",&age);
+printf("enter mobileno");
+scanf("%d",&mobileno);
+printf("enter blood group");
+scanf("%d",&bloodgroup);
+printf("enter aadherno");
+scanf("d",&aadharno);
