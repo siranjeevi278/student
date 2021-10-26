@@ -14,5 +14,7 @@ class course
                 int no_of_value_courses=s.nextInt();
 				   System.out.println("enter name of value added courses:");
 		name_valueadded_course=s.nextInt();
+				   }
+				   }
 
 
